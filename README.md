@@ -38,6 +38,17 @@ Automate EC2 instance start and stop using AWS Lambda based on tags.
 ### 4. Testing
 - Triggered Lambda manually
 - Verified instance states
+  
+### 5. Snapshots for Refrense.
+- Manually power on EC2 Instances for verification pourpose.
+<img width="1495" height="146" alt="image" src="https://github.com/user-attachments/assets/96f499f5-d1ad-4787-b9cc-9895e296bfe6" />
+
+- Post Lambada run
+<img width="1490" height="154" alt="image" src="https://github.com/user-attachments/assets/bcd2d230-ee9d-404b-8e6e-d7869af4144f" />
+
+
+
+
 
 ---
 
