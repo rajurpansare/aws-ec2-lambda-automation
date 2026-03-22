@@ -30,7 +30,7 @@ Automate EC2 instance start and stop using AWS Lambda based on tags.
   - AmazonEC2FullAccess
 
 ### 3. Lambda Function
-- Runtime: Python 3.x
+- Runtime: Python 3.14
 - Used boto3 to:
   - Stop instances with tag `Auto-Stop`
   - Start instances with tag `Auto-Start`
