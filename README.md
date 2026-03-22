@@ -1,4 +1,4 @@
-# aws-ec2-lambda-automation
+# AWS-ec2-lambda-automation
 aws-ec2-lambda-automation with Boto3
 
 # AWS EC2 Automation using Lambda & Boto3
@@ -44,7 +44,7 @@ Automate EC2 instance start and stop using AWS Lambda based on tags.
 <img width="1484" height="167" alt="image" src="https://github.com/user-attachments/assets/b4b80e23-22ee-428b-bc1f-849c91913dc8" />
 
 
-- Post Lambada run
+- Post Lambada run works perfectly as per instructions given.
 <img width="1490" height="154" alt="image" src="https://github.com/user-attachments/assets/bcd2d230-ee9d-404b-8e6e-d7869af4144f" />
 
 
